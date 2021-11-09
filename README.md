@@ -1,2 +1,8 @@
 # hello-Earth
-hey! this my first repository.
+
+hey humans!
+
+starDust-ksX here, I love python & AI.
+I love walking outside my qurateres in the open space under the starry sky of the Mars.
+
+I hope you'll all are having a great time on the Earth. Miss Y'all.
